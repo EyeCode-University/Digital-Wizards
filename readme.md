@@ -20,3 +20,5 @@ Example: Необходимо доработать существующий ме
 <p>⏳Дедлайн: 14 дней </p>
     <a href="https://www.eyecodeuniversity.ru">www.eyecodeuniversity.ru </a>
 </div>
+
+<img src="./digital-wizards-icon.jpg" alt="" />
