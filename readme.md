@@ -21,4 +21,4 @@ Example: Необходимо доработать существующий ме
     <a href="https://www.eyecodeuniversity.ru">www.eyecodeuniversity.ru </a>
 </div>
 
-<img src="./digital-wizards-icon.jpg" alt="" />
+<img src="./team-icon.jpg" alt="" />
