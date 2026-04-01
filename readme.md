@@ -2,7 +2,7 @@
 <code> taskID: №51fbabbf </code>
 
 ### 👥 Студенты
-```html
+```
 <ul>
     <li>Student ID: #FD-240501-006 — Данил Родионов </li>
     <li>Student ID: #FD-240501-005 — Михаил Родионов</li>
