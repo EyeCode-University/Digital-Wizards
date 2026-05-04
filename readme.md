@@ -1,8 +1,10 @@
 # Задание: REST API + React Integration
 
-> **Task ID:** `a3f9d4c2-1`  
-> **Student ID:** Student ID: #FD-240501-006 — Данил Родионов
-> **Student ID:** Student ID: #FD-240501-005 — Михаил Родионов
+> **Task ID:** `a3f9d4c2-1`
+| StudentID | ФИО |
+|------|-------------------|
+| #FD-240501-006| Данил Родионов |
+| #FD-240501-005 | Михаил Родионов|
 
 ---
 
